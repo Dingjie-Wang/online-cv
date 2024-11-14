@@ -48,14 +48,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    I am primarily engaged in interdisciplinary research involving mathematics, 
-    machine learning, and biomedical sciences. My research encompasses areas 
-    such as bioinformatics, computational systems biology, and the theory and 
-    application of tensor decomposition. Currently, my primary research interest 
-    lies in developing innovative algorithms and statistical models to perform 
-    reliable quantitative and function analyses of gene isoforms and 
-    Transposable Elements (TEs) using cutting-edge sequencing techniques from 
-    PacBio and Oxford Nanopore Technologies.
+      I am primarily engaged in interdisciplinary research involving mathematics,
+      machine learning, and biomedical sciences. My research encompasses areas
+      such as bioinformatics, computational systems biology, and the theory and
+      application of tensor decomposition. Currently, my primary research interest
+      lies in developing innovative algorithms and statistical models to perform
+      reliable quantitative and function analyses of gene isoforms and
+      Transposable Elements (TEs) using cutting-edge sequencing techniques from
+      PacBio and Oxford Nanopore Technologies.   
 education:
     title: Education
     info:
