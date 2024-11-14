@@ -32,7 +32,7 @@ career-profile:
     summary: |
       I am currently Research Fellow in Department of Applied Mathematics at The Hong Kong Polytechnic University. 
       I obtained Ph.D. (2019) in Computational Mathematics from School of Mathematics and Statistics, Wuhan University, supervised by Prof. Xiufen Zou. 
-      I used to be a visiting graduate student in Department of Internal Medicine, University of Iowa (2017-2018) and Department of Biomedical Informatics,
+      During graduation, I used to be a visiting scholar in Department of Internal Medicine, University of Iowa (2017-2018) and Department of Biomedical Informatics,
       The Ohio State University (2018-2019), respectively. My dissertation is titled “Integration and quantitative analysis of high-dimensional biomedical 
       data based on multi-scale networks.”. After graduation, I started my postdoc at The Ohio State University and University of Michigan, Ann Arbor, 
       under the supervision of Prof. Kin Fai Au, from 2019 to 2024.      
@@ -58,7 +58,7 @@ research-interests:
 education:
     title: Education
     info:
-      - degree: Ph.D in Computational Mathematics
+      - degree: Ph.D. in Computational Mathematics
         university: Wuhan University
         time: 2014 - 2019
         details: |
@@ -82,46 +82,28 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Research Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+      - role: Research Fellow
+        time: 2024.10 - Present
+        company: Department of Applied Mathematics
+                 Hong Kong Polytechnic University, Hong Kong, China
+      - role: Postdoctoral Fellow
+        time: 2023.02 - 2024.04
+        company: Department of Computational Medicine and Bioinformatics
+                 University of Michigan, Ann Arbor, USA
+      - role: Postdoctoral Fellow
+        time: 2019.06 - 2023.01
+        company: Department of Biomedical Informatics
+                 The Ohio State University, USA
+      - role: Visiting Scholar
+        time: 2018.10 - 2019.06
+        company: Department of Biomedical Informatics
+                 The Ohio State University, USA
+      - role: Visiting Scholar
+        time: 2017.11 - 2018.10
+        company: Department of Internal Medicine
+                 University of Iowa, USA
 certifications:
       title: Certifications
       list:
