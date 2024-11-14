@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    Basic Information:
+    basic information:
       title: Basic Information
       info:
         - idiom: Department of Applied Mathematics
