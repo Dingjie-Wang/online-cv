@@ -86,23 +86,23 @@ experiences:
     info:
       - role: Research Fellow
         time: 2024.10 - Present
-        company: Department of Applied Mathematics
+        company: Department of Applied Mathematics, 
                  Hong Kong Polytechnic University, Hong Kong, China
       - role: Postdoctoral Fellow
         time: 2023.02 - 2024.04
-        company: Department of Computational Medicine and Bioinformatics
+        company: Department of Computational Medicine and Bioinformatics, 
                  University of Michigan, Ann Arbor, USA
       - role: Postdoctoral Fellow
         time: 2019.06 - 2023.01
-        company: Department of Biomedical Informatics
+        company: Department of Biomedical Informatics, 
                  The Ohio State University, USA
       - role: Visiting Scholar
         time: 2018.10 - 2019.06
-        company: Department of Biomedical Informatics
+        company: Department of Biomedical Informatics, 
                  The Ohio State University, USA
       - role: Visiting Scholar
         time: 2017.11 - 2018.10
-        company: Department of Internal Medicine
+        company: Department of Internal Medicine, 
                  University of Iowa, USA
 certifications:
       title: Certifications
