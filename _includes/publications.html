@@ -30,33 +30,33 @@
 
 </section><!--//section-->
 {% endif %}
-{% assign publications.in.progress = site.data.data.publications.in.progress %}
-{% if publications.in.progress %}
-<section class="section publications.in.progress-section">
+{% assign publications-in-progress = site.data.data.publications-in-progress %}
+{% if publications-in-progress %}
+<section class="section publications-in-progress-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    {{ publications.in.progress.title }}
+    {{ publications-in-progress.title }}
   </h2>
 
-  {% if publications.in.progress.intro %}
+  {% if publications-in-progress.intro %}
   <div class="intro">
-    {{ publications.in.progress.intro | markdownify }}
+    {{ publications-in-progress.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication.in.progress in publications.in.progress.papers %}
+  {% for publication-in-progress in publications-in-progress.papers %}
   <div class="item">
-    {% if publication.in.progress.link %}
-      <li><a href="{{ publication.in.progress.link }}">{{ publication.in.progress.title }}</a></li>
+    {% if publication-in-progress.link %}
+      <li><a href="{{ publication-in-progress.link }}">{{ publication-in-progress.title }}</a></li>
     {% else %}
-      <li>{{ publication.in.progress.title }}</li>
+      <li>{{ publication-in-progress.title }}</li>
     {% endif %}
-    <div class="publication.in.progress-authors">{{ publication.in.progress.authors }}</div>
-    <div class="publication.in.progress-conference">{{ publication.in.progress.conference }}</div>
+    <div class="publication-in-progress-authors">{{ publication-in-progress.authors }}</div>
+    <div class="publication-in-progress-conference">{{ publication-in-progress.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
