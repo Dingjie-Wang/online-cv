@@ -60,12 +60,11 @@ career-profile:
       and TEs with complex biomedical context in a comprehensive manner. The specific topics
       I have examined include:
             - Develop statistical models for identifying and quantifying gene isoforms and TEs.
-            - Design long-read-based pipeline to reveal landscape of zygotic TE activation during
-              early embryogenesis in zebrafish.
+            - Design long-read-based pipeline to reveal landscape of zygotic TE activation during early embryogenesis in zebrafish.
             - Construction of gene/isoform regulatory networks using diverse genomic data.
-            - Design network-based computational framework to predict and differentiate 
-              functions among gene isoforms.
+            - Design network-based computational framework to predict and differentiate functions among gene isoforms.            
             - Develop tensor-based indicators to identify key components in complex gene/isoform regulatory networks.
+
 education:
     title: Education
     info:
