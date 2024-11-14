@@ -108,7 +108,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      * Co-first author, † Co-corresponding author
+      *Co-first author, †Co-corresponding author
     papers:
       - title: "Systematic assessment of long-read RNA-seq methods for transcript identification and quantification"
         link: "#https://www.nature.com/articles/s41592-024-02298-3"
