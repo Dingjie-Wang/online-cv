@@ -8,16 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dr. Dingjie Wang
+    tagline: Research Fellow 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
+    email: djwang@whu.edu.cn
     phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: China/Hong Kong
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://dingjie-wang.github.io/online-cv/
     linkedin: alandoe
     xing: alandoe
     github: jekyll
@@ -36,13 +36,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: China
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
