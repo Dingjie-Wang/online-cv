@@ -166,5 +166,27 @@ publications:
         authors: Man Liang, Suoqin Jin, Dingjie Wang, Xiufen Zou
         conference: "The European Physical Journal B, 89:186, 2016."
 
+publications-in-progress:
+    title: Publications
+    intro: |
+      *Co-first author, †Co-corresponding author
+    papers:
+      - title: "MiniQuant: Long reads improve isoform quantification by reducing the data deconvolution uncertainty"
+        link: "#"
+        authors: Haoran Li*, Dingjie Wang*, Yunhao Wang*, Puwen Tan*, Qi Gao*, Xiaoyu Cai*, Aifu Li, Yue Zhao, Andrew L. Thurman, 
+                 Seyed Amir Malekpour, Ying Zhang, Roberta Sala, Andrea Cipriano, Chia-Lin Wei, Vittorio Sebastiano, Chi Song, 
+                 Nancy Ruonan Zhang, Kin Fai Au†.
+        conference: "Nature Biotechnology, in revision."
+
+      - title: "Zygotic activation of transposable elements during zebrafish early embryogenesis"
+        link: "#"
+        authors: Bo Li*, Ting Li*, Dingjie Wang*, Ying Yang, Yungui Yang†, Shunji Jia† and Kin Fai Au†
+        conference: "Nature Communications, in revision."
+
+      - title: "Tensor-based mathematical formalism and centrality measures in temporal high-order networks"
+        link: "#"
+        authors: Dingjie Wang, Yijun Lou† and Xiufen Zou†
+        conference: "In preparation."
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
