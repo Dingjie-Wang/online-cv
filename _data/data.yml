@@ -126,32 +126,32 @@ publications:
         authors: Dingjie Wang, Wei Yu†, Xiufen Zou†
         conference: "Information Sciences, 512:563-580, 2020"
 
-        - title: "A new centrality measure of nodes in multilayer networks under the framework of tensor computation"
+      - title: "A new centrality measure of nodes in multilayer networks under the framework of tensor computation"
         link: "https://www.sciencedirect.com/science/article/pii/S0307904X1730450X"
         authors: Dingjie Wang, Xiufen Zou
         conference: "Applied Mathematical Modelling, 54:46-63, 2018"
 
-        - title: "Trajectory control in nonlinear networked systems and its applications to complex biological systems"
+      - title: "Trajectory control in nonlinear networked systems and its applications to complex biological systems"
         link: "https://epubs.siam.org/doi/10.1137/17M1116143"
         authors: Suoqin Jin*, Dingjie Wang*, Xiufen Zou†
         conference: "SIAM Journal on Applied Mathematics, 78(1):629-649, 2018."
 
-        - title: "Identifying key nodes in multilayer networks based on tensor decomposition"
+      - title: "Identifying key nodes in multilayer networks based on tensor decomposition"
         link: "https://pubs.aip.org/aip/cha/article-abstract/27/6/063108/910321/Identifying-key-nodes-in-multilayer-networks-based?redirectedFrom=fulltext"
         authors: Dingjie Wang, Haitao Wang, Xiufen Zou
         conference: "Chaos, 27(6):063108, 2017"
 
-        - title: "Control energy and controllability of multilayer networks"
+      - title: "Control energy and controllability of multilayer networks"
         link: "https://www.worldscientific.com/doi/10.1142/S0219525917500084?srsltid=AfmBOoqmy93ThO7Q8h1ZWch8DsSaPxyp9_cYW3nXbdCTiMzcpA79TJ85"
         authors: Dingjie Wang, Xiufen Zou
         conference: "Advances in Complex Systems, 20(04n05):1750008, 2017"
 
-        - title: "Crosstalk between pathways enhances the controllability of signalling networks"
+      - title: "Crosstalk between pathways enhances the controllability of signalling networks"
         link: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-syb.2014.0061"
         authors: Dingjie Wang, Suoqin Jin, Xiufen Zou
         conference: "IET Systems Biology, 10(1):2-9, 2016"
 
-        - title: "Estimation of control energy and control strategies for complex networks"
+      - title: "Estimation of control energy and control strategies for complex networks"
         link: "https://www.worldscientific.com/doi/abs/10.1142/S0219525915500186?srsltid=AfmBOooBs4ZpKfbpErDjXk3jZxVE0BGz4EUA8zolwArklK3ThJWkgVca&journalCode=acs"
         authors: Dingjie Wang, Suoqin Jin, Fang-xiang Wu, Xiufen Zou
         conference: "Advances in Complex Systems, 18(07n08):1550018, 2015."
