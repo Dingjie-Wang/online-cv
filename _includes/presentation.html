@@ -4,33 +4,28 @@
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
-      <i class="fas fa-commenting fa-2x"></i>
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
     {{ presentation.title }}
   </h2>
 
   {% if presentation.intro %}
   <div class="intro">
-      <p>{{ presentation.intro }}</p>
+    {{ presentation.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in presentation.assignments %}
-    <div class="item">
-
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
-
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
+  {% for presentation in presentation.papers %}
+  <div class="item">
+    {% if presentation.link %}
+      <li><a href="{{ presentation.link }}">{{ presentation.title }}</a></li>
+    {% else %}
+      <li>{{ presentation.title }}</li>
+    {% endif %}
+    <div class="presentation-authors">{{ presentation.authors }}</div>
+    <div class="presentation-conference">{{ presentation.conference }}</div>
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
