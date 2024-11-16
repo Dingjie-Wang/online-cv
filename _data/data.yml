@@ -214,16 +214,7 @@ oss:
       - title: ENMNFinder
         link: "https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks"
         tagline: "An easy and accessible user interface for the calculation and visualization of centralities in multilayer networks." 
-projects:
-    title: Grants
-    assignments:
-      - title: Quantitative and function analysis platform for repetitive genes and gene isoforms in pluripotency regulation and differentiations
-        link: "https://reporter.nih.gov/search/_q4kAuB6EUqzBxZzJlXEcg/project-details/10934596#similar-Projects"
-        tagline: "Project number: R01HG011469, National Institutes of Health in USA, Role: Key project member, PI: Prof. Kin Fai Au, 2021-2025."
         
-      - title: Multilayer network modeling and optimal control of complex diseases
-        link: "https://kd.nsfc.cn/finalDetails?id=9a790ee447e2212cb826e83072d79d29"
-        tagline: "Project number: 61672388, Natural Science Foundation of China, Role: Key project member, PI: Prof. Xiufen Zou, 2017-2020."
 presentation:
     title: Invited Presentations
     assignments:
@@ -246,10 +237,21 @@ presentation:
       - title: Integration and quantitative analysis of multi-dimensional biomedical data based on multi-scale networks
         link: "https://slxy.cug.edu.cn/"
         tagline: "China University of Geosciences, Wuhan, China, Junly 18, 2020."
-
+        
       - title: Tensor-based mathematical framework and new centralities for temporal multilayer networks
         link: "https://www.csust.edu.cn/stxy/index.htm"
         tagline: "Changsha University of Science and Technology, ChangSha, China, May 30, 2019."
+
+projects:
+    title: Grants
+    assignments:
+      - title: Quantitative and function analysis platform for repetitive genes and gene isoforms in pluripotency regulation and differentiations
+        link: "https://reporter.nih.gov/search/_q4kAuB6EUqzBxZzJlXEcg/project-details/10934596#similar-Projects"
+        tagline: "Project number: R01HG011469, National Institutes of Health in USA, Role: Key project member, PI: Prof. Kin Fai Au, 2021-2025."
+        
+      - title: Multilayer network modeling and optimal control of complex diseases
+        link: "https://kd.nsfc.cn/finalDetails?id=9a790ee447e2212cb826e83072d79d29"
+        tagline: "Project number: 61672388, Natural Science Foundation of China, Role: Key project member, PI: Prof. Xiufen Zou, 2017-2020."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
