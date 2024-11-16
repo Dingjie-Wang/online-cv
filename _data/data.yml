@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links      
-    website: [Department of Applied Mathematics at PolyU](https://www.polyu.edu.hk/ama/)
+    website: Department of Applied Mathematics at PolyU
     email: djwang@whu.edu.cn
     github: https://dingjie-wang.github.io/online-cv
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
