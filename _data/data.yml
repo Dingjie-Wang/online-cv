@@ -191,6 +191,8 @@ publications-in-progress:
 
 oss:
     title: Tool Development
+    intro: >
+      
     contributions:
       - title: LRGASP Consortium project
         link: "https://www.gencodegenes.org/pages/LRGASP/"
