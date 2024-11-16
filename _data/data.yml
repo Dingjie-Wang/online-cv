@@ -226,12 +226,6 @@ projects:
         link: "https://kd.nsfc.cn/finalDetails?id=9a790ee447e2212cb826e83072d79d29"
         tagline: "Project number: 61672388, Natural Science Foundation of China, Role: Key project member, PI: Prof. Xiufen Zou, 2017-2020."
 
-presentation:
-    title: Invited Presentations
-    assignments:
-      - title: LRGASP: Performance evaluation on Challenge 2
-        link: "https://longtrec.eu/"
-        tagline: "LongTREC project, Institute for Integrative Systems Biology (I2SysBio), Spain, March 09, 2024."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
