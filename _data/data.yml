@@ -218,13 +218,13 @@ oss:
 projects:
     title: Grants
     assignments:
-      - title: Multilayer network modeling and optimal control of complex diseases (Project number: 61672388, Natural Science Foundation of China)
+      - title: Multilayer network modeling and optimal control of complex diseases
         link: "#hook"
-        tagline: "Role: Key project member, PI: Prof. Xiufen Zou, 2017-2020"
+        tagline: "Project number: 61672388, Natural Science Foundation of China, Role: Key project member, PI: Prof. Xiufen Zou, 2017-2020."
 
-      - title: Quantitative and function analysis platform for repetitive genes and gene isoforms in pluripotency regulation and differentiations (Project number: R01HG011469, R01 in National Institutes of Health)
+      - title: Quantitative and function analysis platform for repetitive genes and gene isoforms in pluripotency regulation and differentiations
         link: "https://reporter.nih.gov/search/_q4kAuB6EUqzBxZzJlXEcg/project-details/10934596#similar-Projects"
-        tagline: "Role: Key project member, PI: Prof. Kin Fai Au, 2021-2025"
+        tagline: "Project number: R01HG011469, R01 in National Institutes of Health, Role: Key project member, PI: Prof. Kin Fai Au, 2021-2025."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
