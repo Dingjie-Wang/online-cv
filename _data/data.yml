@@ -209,17 +209,17 @@ oss:
 
       - title: IsoNet
         link: "https://github.com/Dingjie-Wang/Iso-Net"
-        tagline: "A tool for inferring co-expression networks based on exon-level expression data"
+        tagline: "A tool for inferring co-expression networks based on exon-level expression data."
 
       - title: ENMNFinder
         link: "https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks"
-        tagline: "An easy and accessible user interface for the calculation and visualization of centralities in multilayer networks"   
+        tagline: "An easy and accessible user interface for the calculation and visualization of centralities in multilayer networks."   
 
 projects:
     title: Grants
     assignments:
       - title: Multilayer network modeling and optimal control of complex diseases
-        link: "#hook"
+        link: "https://kd.nsfc.cn/finalDetails?id=9a790ee447e2212cb826e83072d79d29"
         tagline: "Project number: 61672388, Natural Science Foundation of China, Role: Key project member, PI: Prof. Xiufen Zou, 2017-2020."
 
       - title: Quantitative and function analysis platform for repetitive genes and gene isoforms in pluripotency regulation and differentiations
