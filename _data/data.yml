@@ -229,14 +229,6 @@ projects:
 presentation:
     title: Invited Presentations
     assignments:
-      - title: LRGASP: Performance evaluation on Challenge 2
-        link: "https://longtrec.eu/"
-        tagline: "LongTREC project, Institute for Integrative Systems Biology (I2SysBio), Spain, March 09, 2024."
-
-      - title: MiniQuant: Long reads improve isoform quantification by reducing the data deconvolution uncertainty
-        link: "https://statistics.wharton.upenn.edu/"
-        tagline: "Department of Statistics, The Wharton School, University of Pennsylvania, USA, October 26, 2023."
-
       - title: Opportunities and challenges of new long-read sequencing techniques in quantifying gene isoforms and transposable elements
         link: "https://cse.csu.edu.cn/"
         tagline: "The third Young Scholars Forum, School of Computer Science and Engineering, Central South University, China, August 23-25, 2023."
