@@ -190,9 +190,7 @@ publications-in-progress:
         conference: "In preparation."
 
 oss:
-    title: Tool Development
-    intro: >
-      
+    title: Tool Development  
     contributions:
       - title: LRGASP Consortium project
         link: "https://www.gencodegenes.org/pages/LRGASP/"
@@ -213,7 +211,7 @@ oss:
         link: "https://github.com/Dingjie-Wang/Iso-Net"
         tagline: "A tool for inferring co-expression networks based on exon-level expression data"
 
-       - title: ENMNFinder
+      - title: ENMNFinder
         link: "https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks"
         tagline: "An easy and accessible user interface for the calculation and visualization of centralities in multilayer networks"       
 
