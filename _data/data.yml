@@ -192,7 +192,7 @@ publications-in-progress:
 oss:
     title: Tool Development  
     contributions:
-      - title: LRGASP Consortium project
+      - title: LRGASP
         link: "https://www.gencodegenes.org/pages/LRGASP/"
         tagline: "The Long-read RNA-seq Genome Annotation Assessment Project (LRGASP) Consortium
         is organizing a systematic evaluation of different methods for transcript computational
