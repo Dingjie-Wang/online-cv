@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links      
     website: Department of Applied Mathematics at PolyU
     email: djwang@whu.edu.cn
-    github: https://dingjie-wang.github.io/online-cv
+    github: [https://dingjie-wang.github.io/online-cv](https://dingjie-wang.github.io/online-cv)
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
