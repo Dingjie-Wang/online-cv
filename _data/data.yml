@@ -232,26 +232,6 @@ presentation:
       - title: LRGASP: Performance evaluation on Challenge 2
         link: "https://longtrec.eu/"
         tagline: "LongTREC project, Institute for Integrative Systems Biology (I2SysBio), Spain, March 09, 2024."
-        
-      - title: MiniQuant: Long reads improve isoform quantification by reducing the data deconvolution uncertainty
-        link: "https://statistics.wharton.upenn.edu/"
-        tagline: "Department of Statistics, The Wharton School, University of Pennsylvania, USA, October 26, 2023."
-
-      - title: Opportunities and challenges of new long-read sequencing techniques in quantifying gene isoforms and transposable elements
-        link: "https://cse.csu.edu.cn/"
-        tagline: "The third Young Scholars Forum, School of Computer Science and Engineering, Central South University, China, August 23-25, 2023."
-
-      - title: Systematic assessment of long-read RNA-seq methods for transcript identification and quantification - Challenge 2 Part
-        link: "https://www.gencodegenes.org/pages/LRGASP/"
-        tagline: "LRGASP Consortium Community Calls, USA, March 03, 2022."
-
-      - title: Integration and quantitative analysis of multi-dimensional biomedical data based on multi-scale networks
-        link: "https://slxy.cug.edu.cn/"
-        tagline: "China University of Geosciences, Wuhan, China, Junly 18, 2020."
-        
-      - title: Tensor-based mathematical framework and new centralities for temporal multilayer networks
-        link: "https://www.csust.edu.cn/stxy/index.htm"
-        tagline: "Changsha University of Science and Technology, ChangSha, China, May 30, 2019."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
