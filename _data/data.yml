@@ -231,11 +231,11 @@ presentation:
     papers:
       - title: LRGASP - Performance evaluation on Challenge 2
         link: "https://longtrec.eu/"
-        conference: "LongTREC project, Institute for Integrative Systems Biology (I2SysBio), Spain, March 09, 2024."
+        conference: "LongTREC project, Institute for Integrative Systems Biology (I2SysBio), Spain, March 09, 2024, Invited by Prof. Ana Conesa."
 
       - title: MiniQuant - Long reads improve isoform quantification by reducing the data deconvolution uncertainty
         link: "https://statistics.wharton.upenn.edu/"
-        conference: "Department of Statistics, The Wharton School, University of Pennsylvania, USA, October 26, 2023."
+        conference: "Department of Statistics, The Wharton School, University of Pennsylvania, USA, October 26, 2023, , Invited by Prof. Nancy Ruonan Zhang."
         
       - title: Opportunities and challenges of new long-read sequencing techniques in quantifying gene isoforms and transposable elements
         link: "https://cse.csu.edu.cn/"
