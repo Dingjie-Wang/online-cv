@@ -189,10 +189,10 @@ publications-in-progress:
         authors: Bo Li*, Ting Li*, Dingjie Wang*, Ying Yang, Yungui Yang†, Shunji Jia† and Kin Fai Au†
         conference: "Nature Communications, in revision."
 
-      - title: "Tensor-based mathematical formalism and centrality measures in temporal high-order networks"
+      - title: "Tensor-based multiscale mathematical framework and centrality measures for temporal high-order networks"
         link: "#"
-        authors: Dingjie Wang, Yijun Lou† and Xiufen Zou†
-        conference: "In preparation."
+        authors: Dingjie Wang, Yijun Lou and Xiufen Zou
+        conference: "Submmited to Multiscale Modeling & Simulation."
 
 oss:
     title: Tool Development  
