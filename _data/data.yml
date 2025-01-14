@@ -9,11 +9,11 @@ sidebar:
 
     # Profile information
     name: Dingjie Wang
-    tagline: Research Fellow
+    tagline: Associate Professor and Principle Investigator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links      
-    website: Department of Applied Mathematics at PolyU
+    website:  Institute for Math & AI, Wuhan University
     email: djwang@whu.edu.cn
     github: https://dingjie-wang.github.io/online-cv
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
@@ -85,8 +85,12 @@ education:
 experiences:
     title: Research Experience
     info:
+      - role: Associate Professor and Principle Investigator
+        time: 2025.01 - preseent
+        company:  Institute for Math & AI, Wuhan 
+                  Wuhan University, Wuhan, China
       - role: Research Fellow
-        time: 2024.10 - Present
+        time: 2024.10 - 2025.01
         company: Department of Applied Mathematics, 
                  Hong Kong Polytechnic University, Hong Kong, China
       - role: Postdoctoral Fellow
