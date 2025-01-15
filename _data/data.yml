@@ -87,7 +87,7 @@ experiences:
     title: Research Experience
     info:
       - role: Associate Professor and Principle Investigator
-        time: 2025.01 - preseent
+        time: 2025.01 - present
         company:  Institute for Math & AI, 
                   Wuhan University, Wuhan, China
       - role: Research Fellow
@@ -192,7 +192,7 @@ publications-in-progress:
       - title: "Tensor-based multiscale mathematical framework and centrality measures for temporal high-order networks"
         link: "#"
         authors: Dingjie Wang, Yijun Lou and Xiufen Zou
-        conference: "Submmited to Multiscale Modeling & Simulation."
+        conference: "Submitted to Multiscale Modeling & Simulation."
 
 oss:
     title: Tool Development  
