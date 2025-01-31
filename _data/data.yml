@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Dingjie Wang
-    tagline: Associate Professor and Principle Investigator
+    tagline: Tenure-track Associate Professor and Principle Investigator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links      
@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Basic Information
     summary: |
-      I am a Associate Professor and Principle Investigator in Institute for Math & AI, Wuhan University.
+      I am a Tenure-track Associate Professor and Principle Investigator in Institute for Math & AI, Wuhan University.
       I obtained Ph.D. (2019) in Computational Mathematics from School of Mathematics and Statistics, Wuhan University, supervised by 
       [Prof. Xiufen Zou.](http://jszy.whu.edu.cn/zouxiufen/zh_CN/index.htm)
       My dissertation is titled “Integration and quantitative analysis of high-dimensional biomedical data based on multi-scale networks”.
