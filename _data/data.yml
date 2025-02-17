@@ -116,6 +116,18 @@ publications:
     intro: |
       *Co-first author, †Co-corresponding author
     papers:
+      - title: "MiniQuant: Long reads improve isoform quantification by reducing the data deconvolution uncertainty"
+        link: "#"
+        authors: Haoran Li*, Dingjie Wang*, Qi Gao*, Puwen Tan*, Yunhao Wang*, Xiaoyu Cai*, Aifu Li, Yue Zhao, Andrew L. Thurman, 
+                 Seyed Amir Malekpour, Ying Zhang, Roberta Sala, Andrea Cipriano, Chia-Lin Wei, Vittorio Sebastiano, Chi Song, 
+                 Nancy Ruonan Zhang, Kin Fai Au†
+        conference: "Nature Biotechnology, Accepted, 2025."
+
+      - title: "Zygotic activation of transposable elements during zebrafish early embryogenesis"
+        link: "#"
+        authors: Bo Li*, Ting Li*, Dingjie Wang*, Ying Yang, Yungui Yang†, Shunji Jia† and Kin Fai Au†
+        conference: "Nature Communications, Accepted, 2025."
+        
       - title: "Systematic assessment of long-read RNA-seq methods for transcript identification and quantification"
         link: "https://www.nature.com/articles/s41592-024-02298-3"
         authors: Francisco Pardo-Palacios*, Dingjie Wang*, Fairlie Reese*, Mark Diekhans*, Sílvia Carbonell-Sala*, Brian Williams*, ...,
@@ -172,27 +184,15 @@ publications:
         authors: Man Liang, Suoqin Jin, Dingjie Wang, Xiufen Zou
         conference: "The European Physical Journal B, 89:186, 2016."
 
-publications-in-progress:
+Submitted:
     title: Publications in progress
     intro: |
       *Co-first author, †Co-corresponding author
     papers:
-      - title: "MiniQuant: Long reads improve isoform quantification by reducing the data deconvolution uncertainty"
-        link: "#"
-        authors: Haoran Li*, Dingjie Wang*, Qi Gao*, Puwen Tan*, Yunhao Wang*, Xiaoyu Cai*, Aifu Li, Yue Zhao, Andrew L. Thurman, 
-                 Seyed Amir Malekpour, Ying Zhang, Roberta Sala, Andrea Cipriano, Chia-Lin Wei, Vittorio Sebastiano, Chi Song, 
-                 Nancy Ruonan Zhang, Kin Fai Au†
-        conference: "Nature Biotechnology, in revision."
-
-      - title: "Zygotic activation of transposable elements during zebrafish early embryogenesis"
-        link: "#"
-        authors: Bo Li*, Ting Li*, Dingjie Wang*, Ying Yang, Yungui Yang†, Shunji Jia† and Kin Fai Au†
-        conference: "Nature Communications, in revision."
-
       - title: "Tensor-based multiscale mathematical framework and centrality measures for temporal high-order networks"
         link: "#"
         authors: Dingjie Wang, Yijun Lou and Xiufen Zou
-        conference: "Submitted to SIAM Multiscale Modeling & Simulation."
+        conference: "SIAM Multiscale Modeling & Simulation, Under Review."
 
 oss:
     title: Tool Development  
