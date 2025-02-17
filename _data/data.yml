@@ -116,7 +116,7 @@ publications:
     intro: |
       *Co-first author, †Co-corresponding author
     papers:
-      - title: "MiniQuant: Long reads improve isoform quantification by reducing the data deconvolution uncertainty"
+      - title: "Improving gene isoform quantification with miniQuant"
         link: "#"
         authors: Haoran Li*, Dingjie Wang*, Qi Gao*, Puwen Tan*, Yunhao Wang*, Xiaoyu Cai*, Aifu Li, Yue Zhao, Andrew L. Thurman, 
                  Seyed Amir Malekpour, Ying Zhang, Roberta Sala, Andrea Cipriano, Chia-Lin Wei, Vittorio Sebastiano, Chi Song, 
