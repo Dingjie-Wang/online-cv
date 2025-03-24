@@ -243,6 +243,10 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
+      - title: Machine learning-driven integration of long and short reads for accurate gene isoform quantification
+        link: "https://ss.wit.edu.cn/"
+        conference: "2025 Young Scholars Symposium on Data Science and Computational Systems Biology, Wuhan Institute of Technology, China, March 21-23, 2025."
+        
       - title: LRGASP - Performance evaluation on Challenge 2
         link: "https://longtrec.eu/"
         conference: "LongTREC project, Institute for Integrative Systems Biology (I2SysBio), Spain, March 09, 2024, Invited by Prof. Ana Conesa."
