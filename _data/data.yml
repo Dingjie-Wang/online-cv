@@ -210,7 +210,7 @@ oss:
         as PacBio and Oxford Nanopore."
         
       - title: miniQuant
-        link: "https://github.com/Tidesun/Mini"
+        link: "https://github.com/Augroup/miniQuant/"
         tagline: "A highly-accurate bioinformatics tool for transcript abundance estimation."
 
       - title: miniSim
