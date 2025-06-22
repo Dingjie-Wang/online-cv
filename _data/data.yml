@@ -234,6 +234,10 @@ oss:
         link: "https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks"
         tagline: "An easy and accessible user interface for the calculation and visualization of centralities in multilayer networks." 
 
+      - title: HSCM
+        link: "https://github.com/brleude/HOCR/tree/master"
+        tagline: "HSCM (Higher-order Structural Centrality Methods) are centrality methods based on the higher-order structure of the network. This method extracts the higher-order structure of network, that is, the situation of nodes participating in the formation of cliques, and then cooperates with other imformation of the original network to weighting the base centrality methods. "  
+
 projects:
     title: Grants
     assignments:
