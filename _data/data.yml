@@ -224,7 +224,7 @@ oss:
 
       - title: miniSim
         link: "https://github.com/Tidesun/MiniSim"
-        tagline: "A realisitic long reads RNA-seq data simulator."
+        tagline: "MiniSim is a realisitic long reads RNA-seq data simulator, which utilizes kernel density estimation (KDE) models trained based on real ONT data to estimate 5' and 3' truncation length."
 
       - title: HSCM
         link: "https://github.com/brleude/HOCR/tree/master"
@@ -232,11 +232,11 @@ oss:
 
       - title: IsoNet
         link: "https://github.com/Dingjie-Wang/Iso-Net"
-        tagline: "A tool for inferring co-expression networks based on exon-level expression data."
+        tagline: "IsoNet is a novel tool for inferring co-expression networks based on exon-level expression data."
 
       - title: ENMNFinder
         link: "https://github.com/Dingjie-Wang/Centrality-of-Multilayer-Networks"
-        tagline: "An easy and accessible user interface for the calculation and visualization of centralities in multilayer networks." 
+        tagline: "ENMNFinder is an easy and accessible user interface for the calculation and visualization of centralities in multilayer networks." 
 
 projects:
     title: Grants
