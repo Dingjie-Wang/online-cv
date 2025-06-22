@@ -220,7 +220,7 @@ oss:
         
       - title: miniQuant
         link: "https://github.com/Augroup/miniQuant/"
-        tagline: "A highly-accurate bioinformatics tool for transcript abundance estimation."
+        tagline: "miniQuant is highly-accurate bioinformatics tool, which ranks genes with quantification errors caused by the ambiguity of read alignments and integrates the complementary strengths of long reads and short reads with optimal combination in a gene- and data-specific manner to achieve more accurate quantification."
 
       - title: miniSim
         link: "https://github.com/Tidesun/MiniSim"
