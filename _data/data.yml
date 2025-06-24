@@ -256,6 +256,10 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
+      - title: Improving gene isoform quantification with miniQuant
+        link: "https://imai.whu.edu.cn/info/1831/7091.htm"
+        conference: "Youth Scholars Forum in Computational Mathematics, Wuhan University, China, June 10-13, 2025."
+    
       - title: Machine learning-driven integration of long and short reads for accurate gene isoform quantification
         link: "https://ss.wit.edu.cn/"
         conference: "2025 Young Scholars Symposium on Data Science and Computational Systems Biology, Wuhan Institute of Technology, China, March 21-23, 2025."
