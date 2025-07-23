@@ -199,7 +199,7 @@ publications-in-progress:
       - title: "Tensor-based multiscale mathematical framework and centrality measures for temporal high-order networks"
         link: "#"
         authors: Dingjie Wang, Yijun Lou and Xiufen Zou
-        conference: "Submitted"
+        conference: "Submitted."
 
       - title: "Hypergraph-informed centrality improves detection of critical components in complex biological networks"
         link: "#"
@@ -259,6 +259,10 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
+      - title: 三代测序技术助力基因异构体和转座子的精准定量
+        link: "https://www.bnuzh.edu.cn/"
+        conference: "生命系统科学驱动智慧医学研究新范式学术研讨会，北京师范大学, 珠海， 2025年7月16日-17日."
+    
       - title: Improving gene isoform quantification with miniQuant
         link: "https://imai.whu.edu.cn/info/1831/7091.htm"
         conference: "Youth Scholars Forum in Computational Mathematics, Wuhan University, China, June 10-13, 2025."
