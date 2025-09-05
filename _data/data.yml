@@ -201,7 +201,7 @@ publications-in-progress:
         authors: Dingjie Wang, Yijun Lou and Xiufen Zou
         conference: "Submitted."
 
-      - title: "Hypergraph-informed centrality improves detection of critical components in complex biological networks"
+      - title: "Hypergraph-informed centrality uncovers structural heterogeneity and prioritizes key proteins in tissue-specific higher-order protein interaction networks"
         link: "#"
         authors: Zhentang Xue, Xiufen Zou and Dingjie Wang†
         conference: "Submitted."
