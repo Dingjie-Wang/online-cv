@@ -196,6 +196,11 @@ publications-in-progress:
     intro: |
       *Co-first author, †Co-corresponding author
     papers:
+      - title: "Benchmarking reveals the transcriptional complexity of transposable elements and highlights the quantification advantages of long-read sequencing"
+        link: "#"
+        authors: Dingjie Wang† and Xiufen Zou†
+        conference: "Submitted."
+        
       - title: "Tensor-based multiscale mathematical framework and centrality measures for temporal high-order networks"
         link: "#"
         authors: Dingjie Wang, Yijun Lou and Xiufen Zou
@@ -204,11 +209,6 @@ publications-in-progress:
       - title: "Hypergraph-informed centrality uncovers structural heterogeneity and prioritizes key proteins in tissue-specific higher-order protein interaction networks"
         link: "#"
         authors: Zhentang Xue, Xiufen Zou and Dingjie Wang†
-        conference: "Submitted."
-
-      - title: "Benchmarking reveals the transcriptional complexity of transposable elements and highlights the quantification advantages of long-read sequencing"
-        link: "#"
-        authors: Dingjie Wang† and Xiufen Zou†
         conference: "Submitted."
 
 oss:
