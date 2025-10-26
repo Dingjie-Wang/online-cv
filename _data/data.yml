@@ -42,7 +42,7 @@ career-profile:
       and as a reviewer for several international journals, including Nature Biotechnology, Genome Biology, Bioinformatics, and Artificial Intelligence Review.
 
       I am actively seeking highly motivated [Postdoc](https://rsb.whu.edu.cn/info/1182/29601.htm), 
-      [PhD](https://maths.whu.edu.cn/info/1020/138801.htm) and [Master](https://mds.whu.edu.cn/info/1101/2901.htm) students from Mathematic, Statistic, Computer Science, Bioinformatics, or similar fields.
+      [PhD](https://maths.whu.edu.cn/info/1020/138801.htm) and [Master](https://maths.whu.edu.cn/info/1020/148722.htm) students from Mathematic, Statistic, Computer Science, Bioinformatics, or similar fields.
       Contact me (djwang@whu.edu) if you are interested, please include your CV and brief research statement.
       
 research-interests:
@@ -247,6 +247,10 @@ projects:
       - title: Fundamental theories and algorithms of biological big data analysis
         link: ""
         tagline: "National Overseas High-level Talent Program for Youth, Role: PI, 2025-2027."
+
+      - title: Multilayer high-order network approaches for gene isoform identification and functional prediction
+        link: ""
+        tagline: "Project number: 62502351, Natural Science Foundation of China, Role: PI, 2026-2028."
     
       - title: Quantitative and function analysis platform for repetitive genes and gene isoforms in pluripotency regulation and differentiations
         link: "https://reporter.nih.gov/search/_q4kAuB6EUqzBxZzJlXEcg/project-details/10934596#similar-Projects"
