@@ -263,17 +263,17 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
-      - title: 三代测序技术助力基因异构体和转座子的精准定量
+      - title: 生命系统科学驱动智慧医学研究新范式学术研讨会
         link: "https://www.bnuzh.edu.cn/"
-        conference: "生命系统科学驱动智慧医学研究新范式学术研讨会，北京师范大学, 珠海， 2025年7月16日-17日."
+        conference: "北京师范大学, 珠海， 2025年7月16日-17日."
     
-      - title: Improving gene isoform quantification with miniQuant
+      - title: Youth Scholars Forum in Computational Mathematics
         link: "https://imai.whu.edu.cn/info/1831/7091.htm"
-        conference: "Youth Scholars Forum in Computational Mathematics, Wuhan University, China, June 10-13, 2025."
+        conference: "Wuhan University, China, June 10-13, 2025."
     
-      - title: Machine learning-driven integration of long and short reads for accurate gene isoform quantification
+      - title: 2025 Young Scholars Symposium on Data Science and Computational Systems Biology
         link: "https://ss.wit.edu.cn/"
-        conference: "2025 Young Scholars Symposium on Data Science and Computational Systems Biology, Wuhan Institute of Technology, China, March 21-23, 2025."
+        conference: "Wuhan Institute of Technology, China, March 21-23, 2025."
         
       - title: LRGASP - Performance evaluation on Challenge 2
         link: "https://longtrec.eu/"
@@ -283,9 +283,9 @@ presentation:
         link: "https://statistics.wharton.upenn.edu/"
         conference: "Department of Statistics, The Wharton School, University of Pennsylvania, USA, October 26, 2023, , Invited by Prof. Nancy Ruonan Zhang."
         
-      - title: Opportunities and challenges of new long-read sequencing techniques in quantifying gene isoforms and transposable elements
+      - title: The third Young Scholars Forum, School of Computer Science and Engineering
         link: "https://cse.csu.edu.cn/"
-        conference: "The third Young Scholars Forum, School of Computer Science and Engineering, Central South University, China, August 23-25, 2023."
+        conference: "Central South University, China, August 23-25, 2023."
 
       - title: Systematic assessment of long-read RNA-seq methods for transcript identification and quantification - Challenge 2 Part
         link: "https://www.gencodegenes.org/pages/LRGASP/"
