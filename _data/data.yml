@@ -263,6 +263,26 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
+      - title: 第十四届全国生物信息学与系统生物学学术大会
+        link: "https://mp.weixin.qq.com/s/3eG16_AgT5oLwqz8lkyA0w"
+        conference: "广西, 南宁， 2025年10月7日-10日."
+
+      - title: 第四届数学生命科学大会
+        link: "https://mp.weixin.qq.com/s/qTLaeCv1T9Yx-w8umBqe5g"
+        conference: "中国人民大学（通州校区）, 北京， 2025年8月8日-10日."
+
+      - title: iMeta大会2025
+        link: "https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.70086"
+        conference: "湖北，武汉， 2025年8月23日-25日."
+
+      - title: 统计与人工智能会议
+        link: "https://math.scu.edu.cn/info/1257/4887.htm"
+        conference: "四川大学，四川，成都， 2025年10月18日."
+
+      - title: GPB青年编委2025年第二次会议
+        link: "https://mp.weixin.qq.com/s/9h-3JV5d82vrP6gPJc_How"
+        conference: "重庆医科大学，重庆， 2025年9月25日-26日."
+    
       - title: 生命系统科学驱动智慧医学研究新范式学术研讨会
         link: "https://www.bnuzh.edu.cn/"
         conference: "北京师范大学, 珠海， 2025年7月16日-17日."
