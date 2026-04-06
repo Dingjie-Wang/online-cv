@@ -196,9 +196,19 @@ publications-in-progress:
     intro: |
       *Co-first author, †Co-corresponding author
     papers:
+      - title: "Deciphering Transcriptome Complexity via Long-read Sequencing"
+        link: "#"
+        authors: Chuwen Xu*, Jia Li*, Chenxi Yin*, Keying Li*, ..., Ana Conesa, Nancy Ruonan Zhang, Yunhao Wang†, Dingjie Wang†
+        conference: "Under review in iMeta (invited review)."
+
+      - title: "Nanopore Direct RNA Sequencing and the Epitranscriptome: Toward a Complete Map of RNA Regulation"
+        link: "#"
+        authors: Tianyuan Zhang*, Jia Li*, Chao Tang*, You Wu*, Hao Wu*, Xi-Tong Zhu*, Ziyang Luo*, Hang Qin*, Lishan Ding*, ..., Hu Chen†, Sanqi An†, Xiang Yu†, Lu Chen†, Dingjie Wang†, Shengli Li†, Ling-Ling Chen†, Yanqiang Li†
+        conference: "In revision in iMeta (invited review)."  
+      
       - title: "Benchmarking reveals the transcriptional complexity of transposable elements and highlights the quantification advantages of long-read sequencing"
         link: "#"
-        authors: Dingjie Wang† and Xiufen Zou†
+        authors: Dingjie Wang*†, Shiwen Gao* and Xiufen Zou†
         conference: "Submitted."
         
       - title: "Tensor-based multiscale mathematical framework and centrality measures for temporal high-order networks"
