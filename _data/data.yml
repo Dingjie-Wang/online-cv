@@ -273,6 +273,10 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
+      - title: 第三届全国基因组信息学大会
+        link: "https://ngic2026.aconf.cn/index.html"
+        conference: "西湖大学，杭州， 2026年3月27日-29日."
+      
       - title: The IEEE International Conference on Bioinformatics and Biomedicine 2025
         link: "https://biod.whu.edu.cn/bibm2025/"
         conference: "Wuhan, China， December 15-18, 2025."
