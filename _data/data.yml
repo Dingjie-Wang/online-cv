@@ -273,6 +273,10 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
+      - title: The IEEE International Conference on Bioinformatics and Biomedicine 2025
+        link: "https://biod.whu.edu.cn/bibm2025/"
+        conference: "Wuhan, China， December 15-18, 2025."
+      
       - title: 第十四届全国生物信息学与系统生物学学术大会
         link: "https://mp.weixin.qq.com/s/3eG16_AgT5oLwqz8lkyA0w"
         conference: "广西, 南宁， 2025年10月7日-10日."
