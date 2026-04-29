@@ -123,6 +123,11 @@ publications:
     intro: |
       *Co-first author, †Co-corresponding author
     papers:
+      - title: "Nanopore Direct RNA Sequencing and the Epitranscriptome: Toward a Complete Map of RNA Regulation"
+        link: "#"
+        authors: Tianyuan Zhang*, Jia Li*, Chao Tang*, You Wu*, Hao Wu*, Xi-Tong Zhu*, Ziyang Luo*, Hang Qin*, Lishan Ding*, ..., Hu Chen†, Sanqi An†, Xiang Yu†, Lu Chen†, Dingjie Wang†, Shengli Li†, Ling-Ling Chen†, Yanqiang Li†
+        conference: "iMeta,  Accepted in principle, 2026."
+      
       - title: "Improving gene isoform quantification with miniQuant"
         link: "https://www.nature.com/articles/s41587-025-02633-9"
         authors: Haoran Li*, Dingjie Wang*, Qi Gao*, Puwen Tan*, Yunhao Wang*, Xiaoyu Cai*, Aifu Li, Yue Zhao, Andrew L. Thurman, 
@@ -199,12 +204,7 @@ publications-in-progress:
       - title: "Deciphering Transcriptome Complexity via Long-read Sequencing"
         link: "#"
         authors: Chuwen Xu*, Jia Li*, Chenxi Yin*, Keying Li*, ..., Ana Conesa, Nancy Ruonan Zhang, Yunhao Wang†, Dingjie Wang†
-        conference: "Under review in iMeta (invited review)."
-
-      - title: "Nanopore Direct RNA Sequencing and the Epitranscriptome: Toward a Complete Map of RNA Regulation"
-        link: "#"
-        authors: Tianyuan Zhang*, Jia Li*, Chao Tang*, You Wu*, Hao Wu*, Xi-Tong Zhu*, Ziyang Luo*, Hang Qin*, Lishan Ding*, ..., Hu Chen†, Sanqi An†, Xiang Yu†, Lu Chen†, Dingjie Wang†, Shengli Li†, Ling-Ling Chen†, Yanqiang Li†
-        conference: "In revision in iMeta (invited review)."  
+        conference: "Under review in iMeta (invited review)."  
       
       - title: "Benchmarking reveals the transcriptional complexity of transposable elements and highlights the quantification advantages of long-read sequencing"
         link: "#"
