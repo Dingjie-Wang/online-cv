@@ -277,6 +277,10 @@ projects:
 presentation:
     title: Invited Presentations
     papers:
+      - title: 第五届中国智能健康与生物信息大会
+        link: "https://mp.weixin.qq.com/s/YE7UVwPeyhdgvK8P_InzZQ"
+        conference: "西安交通大学，西安， 2026年4月17日-20日."
+      
       - title: 第三届全国基因组信息学大会
         link: "https://ngic2026.aconf.cn/index.html"
         conference: "西湖大学，杭州， 2026年3月27日-29日."
