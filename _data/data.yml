@@ -203,7 +203,7 @@ publications-in-progress:
     papers:
       - title: "Deciphering Transcriptome Complexity via Long-read Sequencing"
         link: "#"
-        authors: Chuwen Xu*, Jia Li*, Chenxi Yin*, Keying Li*, ..., Ana Conesa, Nancy Ruonan Zhang, Yunhao Wang†, Dingjie Wang†
+        authors: Chuwen Xu*, Jia Li*, Chenxi Yin*, Keying Li*, ..., Ana Conesa, Yunhao Wang†, Dingjie Wang†
         conference: "Under review in iMeta (invited review)."  
       
       - title: "Benchmarking reveals the transcriptional complexity of transposable elements and highlights the quantification advantages of long-read sequencing"
