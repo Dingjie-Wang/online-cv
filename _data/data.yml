@@ -126,7 +126,7 @@ publications:
       - title: "Nanopore Direct RNA Sequencing and the Epitranscriptome: Toward a Complete Map of RNA Regulation"
         link: "https://onlinelibrary.wiley.com/doi/10.1002/imt2.70136"
         authors: Tianyuan Zhang*, Jia Li*, Chao Tang*, You Wu*, Hao Wu*, Xi-Tong Zhu*, Ziyang Luo*, Hang Qin*, Lishan Ding*, ..., Hu Chen†, Sanqi An†, Xiang Yu†, Lu Chen†, Dingjie Wang†, Shengli Li†, Ling-Ling Chen†, Yanqiang Li†
-        conference: "iMeta,  Accepted in principle, 2026."
+        conference: "iMeta,  https://doi.org/10.1002/imt2.70136, 2026."
       
       - title: "Improving gene isoform quantification with miniQuant"
         link: "https://www.nature.com/articles/s41587-025-02633-9"
