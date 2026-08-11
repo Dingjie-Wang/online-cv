@@ -48,7 +48,7 @@ career-profile:
 research-interests:
     title: Research Interests
     summary: |      
-      My research lies at the intersection of mathematics, machine learning, and biomedical sciences, with a focus on bioinformatics, computational systems biology, and complex network analysis. 
+      My research lies at the intersection of mathematics, AI, and biomedical sciences, with a focus on bioinformatics, computational systems biology, and complex network analysis. 
       We develop innovative, interpretable algorithms and statistical models to characterize transcriptome complexity and gene regulation using long-read sequencing technologies, 
       particularly Pacific Biosciences (PacBio) and Oxford Nanopore Technologies (ONT).
 
