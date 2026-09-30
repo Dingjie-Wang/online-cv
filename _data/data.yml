@@ -128,7 +128,7 @@ publications:
       - title: "Deciphering Transcriptome Complexity via Long-read Sequencing"
         link: "#"
         authors: Chuwen Xu*, Jia Li*, Chenxi Yin*, Keying Li*, ..., Ana Conesa, Yunhao Wang†, Dingjie Wang†
-        conference: "iMeta, Accepted, 2026."
+        conference: "iMeta, https://doi.org/10.1002/imt2.70171, 2026."
     
       - title: "Nanopore Direct RNA Sequencing and the Epitranscriptome: Toward a Complete Map of RNA Regulation"
         link: "https://onlinelibrary.wiley.com/doi/10.1002/imt2.70136"
@@ -141,6 +141,11 @@ publications:
                  Seyed Amir Malekpour, Ying Zhang, Roberta Sala, Andrea Cipriano, Chia-Lin Wei, Vittorio Sebastiano, Chi Song, 
                  Nancy Ruonan Zhang, Kin Fai Au†
         conference: "Nature Biotechnology, 44, 477–489, 2026."
+
+      - title: "Hypergraph-informed centrality uncovers structural heterogeneity and prioritizes key proteins in tissue-specific higher-order protein interaction networks"
+        link: "#"
+        authors: Zhentang Xue, Xiufen Zou and Dingjie Wang†
+        conference: "Interdisciplinary Sciences: Computational Life Sciences, accepted in principle, 2026."
 
       - title: "Zygotic activation of transposable elements during zebrafish early embryogenesis"
         link: "https://www.nature.com/articles/s41467-025-58863-7"
@@ -218,10 +223,6 @@ publications-in-progress:
         authors: Dingjie Wang, Yijun Lou and Xiufen Zou
         conference: "Submitted."
 
-      - title: "Hypergraph-informed centrality uncovers structural heterogeneity and prioritizes key proteins in tissue-specific higher-order protein interaction networks"
-        link: "#"
-        authors: Zhentang Xue, Xiufen Zou and Dingjie Wang†
-        conference: "In revision."
 
 oss:
     title: Tool Development  
