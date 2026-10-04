@@ -131,7 +131,7 @@ publications:
       *Co-first author, †Co-corresponding author
     papers:
       - title: "Deciphering Transcriptome Complexity via Long-read Sequencing"
-        link: "#"
+        link: "http://doi.org/10.1002/imt2.70171"
         authors: Chuwen Xu*, Jia Li*, Chenxi Yin*, Keying Li*, ..., Ana Conesa, Yunhao Wang†, Dingjie Wang†
         conference: "iMeta, https://doi.org/10.1002/imt2.70171, 2026."
     
