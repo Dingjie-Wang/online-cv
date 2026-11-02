@@ -218,6 +218,17 @@ publications-in-progress:
     intro: |
       *Co-first author, †Co-corresponding author
     papers:
+      - title: "MiniTEQuant: Deciphering cell-type and spatial heterogeneity in transcript isoform and transposable element expression from long-read transcriptomics"
+        link: "#"
+        authors: Yue Yu*, Daoyuan Wang*, ..., Zhiyuan Yuan†, Dingjie Wang†
+        conference: "In Preparation."
+
+      - title: "Improving clustering identifiability in long-read single-cell transcriptomics with hypergraph-based miniMVC"
+        link: "#"
+        authors: Jia Li*, ..., Wenjing Ma†, Dingjie Wang†
+        conference: "In Preparation."
+      
+      
       - title: "Benchmarking reveals the transcriptional complexity of transposable elements and highlights the quantification advantages of long-read sequencing"
         link: "#"
         authors: Dingjie Wang*† and Xiufen Zou†
